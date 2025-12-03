@@ -201,5 +201,5 @@ function afficherProduitsConsole() {
 productNames[0];
 productNames[1];
 productNames[2];
-`pricesHT[0]`
+`pricesHT[0]`;
 // - appeler la fonction
